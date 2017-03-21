@@ -1,2 +1,2 @@
-# Hashed_Kuma
-MD5 Hashes and wordlists. Usefull for when you have HDD space but not RAM
+# Kuma_Hash
+A collection of hashes. in colaberation with @ChocolaKuma/kuma_hash_checker
